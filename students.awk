@@ -13,5 +13,3 @@ END {
         printf " - %s scored %d\n", s, student[s]
     }
 }
-
-1
